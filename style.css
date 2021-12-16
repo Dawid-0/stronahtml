@@ -1,0 +1,73 @@
+body
+{
+    background-image: url(jpg/tlo.jpg);
+    background-size: 100%;
+    background-clip: unset  ;
+    color: white;
+    font-size: 18px;
+    margin: 0 !important;   
+}
+
+#logo
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    filter: none !important;
+    margin: auto;
+}
+#menu
+{
+    padding: 10px;
+    background: black;
+    text-align: center;
+
+}
+.allcontent
+{
+    margin: 0 auto;
+    
+}
+.content
+{
+    width: 1000px;
+    background-color: #ffffff ;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    counter-set: 1;
+    margin: 30px auto;
+    background: white;
+    height: 540px;
+    
+
+}
+.text
+{
+    float: left;
+    width: 383px;
+    background-color: white;
+}
+.img
+{float: right;
+width: 617px;
+background-color: white;
+scale: auto;
+}
+.title
+{
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+    padding: 10px;
+    font-size: 40px;
+}
+.result
+{
+    margin-top: 20xp;
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+
+}
