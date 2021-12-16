@@ -38,10 +38,18 @@ body
     margin-bottom: 20px;
     counter-set: 1;
     margin: 30px auto;
-    background: white;
     height: 540px;
-    
-
+    padding: 10px;
+}
+.content2
+{
+    width: 1000px;
+    background-color: #ffffff ;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+    padding: 10px;
 }
 .text
 {
